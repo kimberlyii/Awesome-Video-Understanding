@@ -152,7 +152,7 @@ The survey organizes modern Video-LLMs through three architectural decisions—*
 | 2024-06 | **VideoVista** | Versatile video understanding and reasoning benchmark | [📄](https://arxiv.org/abs/2406.11303) | — |
 | 2024-06 | **VideoGPT+** | Joint image and video encoders | [📄](https://arxiv.org/abs/2406.09418) | — |
 | 2024-06 | **MMWorld** | Multi-discipline world-model evaluation in videos | [📄](https://arxiv.org/abs/2406.08407) | — |
-| 2024-06 | **LVBench** | Extreme long-video understanding | [📄](https://arxiv.org/abs/2406.08035) | — |
+| 2024-06 | **LVBench** | Extreme long-video understanding | [📄](https://arxiv.org/abs/2406.08035) [💻](https://github.com/zai-org/LVBench) | [![GitHub stars](https://img.shields.io/github/stars/zai-org/LVBench?style=social)](https://github.com/zai-org/LVBench) |
 | 2024-06 | **Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams** | Streaming visual memory | [📄](https://arxiv.org/abs/2406.08085) [💻](https://github.com/IVGSZ/Flash-VStream) | [![GitHub stars](https://img.shields.io/github/stars/IVGSZ/Flash-VStream?style=social)](https://github.com/IVGSZ/Flash-VStream) |
 | 2024-06 | **MLVU: Multi-Task Long Video Understanding** | Long-video evaluation | [📄](https://arxiv.org/abs/2406.04264) [💻](https://github.com/JUNJIE99/MLVU) | [![GitHub stars](https://img.shields.io/github/stars/JUNJIE99/MLVU?style=social)](https://github.com/JUNJIE99/MLVU) |
 | 2024-06 | **LongVA: Long Context Transfer from Language to Vision** | Text-to-vision context transfer | [📄](https://arxiv.org/abs/2406.16852) [💻](https://github.com/EvolvingLMMs-Lab/LongVA) | [![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LongVA?style=social)](https://github.com/EvolvingLMMs-Lab/LongVA) |
@@ -290,7 +290,7 @@ Selected resources:
 | **Video-MME** | Duration-, domain-, and modality-balanced evaluation | Multiple choice | [📄](https://arxiv.org/abs/2405.21075) [💻](https://github.com/BradyFU/Video-MME) |
 | **MLVU** | Multi-task long-video understanding | Mixed | [📄](https://arxiv.org/abs/2406.04264) [💻](https://github.com/JUNJIE99/MLVU) |
 | **LongVideoBench** | Interleaved video-language reasoning over long contexts | Multiple choice | [📄](https://arxiv.org/abs/2407.15754) [💻](https://github.com/longvideobench/LongVideoBench) |
-| **LVBench** | Hour-long real-world video understanding | Multiple choice | [📄](https://arxiv.org/abs/2406.08035) [💻](https://github.com/wangzongyu-ustc/LVBench) |
+| **LVBench** | Hour-long real-world video understanding | Multiple choice | [📄](https://arxiv.org/abs/2406.08035) [💻](https://github.com/zai-org/LVBench) |
 
 ### Temporal, streaming, and fine-grained evaluation
 
