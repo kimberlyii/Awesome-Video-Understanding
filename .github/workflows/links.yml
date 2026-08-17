@@ -14,11 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Validate paper index
+        run: ruby scripts/check_papers.rb
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --no-progress
             --accept 200,206,429
-            --exclude-mail
             README.md README_zh-CN.md CONTRIBUTING.md
           fail: true
