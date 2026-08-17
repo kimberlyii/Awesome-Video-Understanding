@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Video Understanding</title>
+  <desc id="desc">A curated roadmap for Video Large Language Models</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071526"/>
+      <stop offset="0.52" stop-color="#102a43"/>
+      <stop offset="1" stop-color="#183b56"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#49dcb1"/>
+      <stop offset="1" stop-color="#66a6ff"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1090" cy="70" r="105" fill="#49dcb1" opacity=".10" filter="url(#glow)"/>
+  <circle cx="1170" cy="280" r="150" fill="#66a6ff" opacity=".12" filter="url(#glow)"/>
+  <g transform="translate(84 72)">
+    <rect width="216" height="216" rx="42" fill="#fff" opacity=".055" stroke="#fff" stroke-opacity=".14"/>
+    <path d="M76 53 168 108 76 163Z" fill="url(#accent)"/>
+    <path d="M44 34v148M188 34v148" stroke="#fff" stroke-opacity=".22" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="44" cy="64" r="5" fill="#49dcb1"/><circle cx="44" cy="108" r="5" fill="#49dcb1"/><circle cx="44" cy="152" r="5" fill="#49dcb1"/>
+    <circle cx="188" cy="64" r="5" fill="#66a6ff"/><circle cx="188" cy="108" r="5" fill="#66a6ff"/><circle cx="188" cy="152" r="5" fill="#66a6ff"/>
+  </g>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif">
+    <text x="352" y="130" fill="#93a8bc" font-size="21" font-weight="650" letter-spacing="4">CURATED RESEARCH ROADMAP</text>
+    <text x="348" y="197" fill="#fff" font-size="54" font-weight="760">Awesome Video Understanding</text>
+    <rect x="352" y="224" width="728" height="4" rx="2" fill="url(#accent)"/>
+    <text x="352" y="271" fill="#cbd8e5" font-size="24">Video-LLMs · Encoding · Alignment · Training · Evaluation</text>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+name: Add a resource
+description: Suggest a paper, model, dataset, benchmark, or tool.
+title: "[Resource] "
+labels: [resource]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Official paper URL
+    validations:
+      required: true
+  - type: input
+    id: code
+    attributes:
+      label: Official code, project, model, or dataset URL
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Basic encoding
+        - Long-context encoding
+        - Streaming encoding
+        - Multimodal alignment
+        - Training resources
+        - Evaluation
+        - Challenges and frontiers
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why should it be included?
+      description: Explain the distinctive contribution in one or two sentences.
+    validations:
+      required: true

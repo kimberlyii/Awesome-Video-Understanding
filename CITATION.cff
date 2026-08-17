@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If this curated repository helps your research, please cite the accompanying survey once its DOI is available."
+title: "Awesome Video Understanding"
+type: dataset
+authors:
+  - given-names: Yiming
+    family-names: Zhong
+  - given-names: Chang
+    family-names: Nie
+  - given-names: Yan
+    family-names: Yang
+  - given-names: Xiaoyu
+    family-names: Liu
+  - given-names: Caifeng
+    family-names: Shan
+date-released: 2026-08-17
+license: CC0-1.0
+keywords:
+  - video understanding
+  - video large language models
+  - multimodal large language models
+  - frame encoding
+  - multimodal alignment
