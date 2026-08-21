@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Awesome Video Understanding banner">
+  <img src="assets/mig_logo.png" width="100%" alt="MiG: Multimodal Intelligence Group">
   <br><br>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0--1.0-49a68b.svg" alt="CC0 license"></a>
